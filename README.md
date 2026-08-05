@@ -3,7 +3,7 @@
 **Build a rule. Run the factory.**
 
 **Live prototype:** https://learningdesignprototype.streamlit.app/
-**Repository:** https://github.com/mikayla-a-mitchell/Assembly-X-Factory.git
+**Repository:** https://github.com/mikayla-a-mitchell/Assembly-X-Factory/tree/main
 
 ## Overview
 
