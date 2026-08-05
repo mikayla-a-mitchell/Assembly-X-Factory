@@ -2,7 +2,7 @@
 
 **Build a rule. Run the factory.**
 
-**Live prototype:** `PASTE_ASSEMBLY_X_DEMO_URL_HERE`  
+**Live prototype:** https://learningdesignprototype.streamlit.app/
 **Repository:** https://github.com/mikayla-a-mitchell/Assembly-X-Factory.git
 
 ## Overview
