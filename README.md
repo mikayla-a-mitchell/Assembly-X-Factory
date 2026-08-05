@@ -3,7 +3,7 @@
 **Build a rule. Run the factory.**
 
 **Live prototype:** `PASTE_ASSEMBLY_X_DEMO_URL_HERE`  
-**Repository:** `PASTE_ASSEMBLY_X_REPOSITORY_URL_HERE`
+**Repository:** https://github.com/mikayla-a-mitchell/Assembly-X-Factory.git
 
 ## Overview
 
