@@ -2,8 +2,9 @@
 
 **Build a rule. Run the factory.**
 
-**Live prototype:** [https://learningdesignprototype.streamlit.app/](https://app-l-d-prototype.streamlit.app/)
-**Repository:** https://github.com/mikayla-a-mitchell/Assembly-X-Factory/tree/main
+**Live prototype:** [app-l-d-prototype.streamlit.app](https://app-l-d-prototype.streamlit.app/) (select **Assembly X**)  
+**Design brief:** [assembly-x-design-brief.md](assembly-x-design-brief.md)  
+**Playtest guide:** [assembly-x-playtest-guide.md](assembly-x-playtest-guide.md)
 
 ## Overview
 
@@ -55,11 +56,11 @@ This prototype was created to explore:
 
 ## Files
 
-- `assembly-x.html` — standalone interactive prototype
-- `assembly-x-design-brief.md` — backward-design brief and misconception map
-- `assembly-x-playtest-guide.md` — initial usability and learning playtest protocol
+- [`assembly-x.html`](assembly-x.html): standalone interactive prototype (download and open in any browser)
+- [`assembly-x-design-brief.md`](assembly-x-design-brief.md): backward-design brief and misconception map
+- [`assembly-x-playtest-guide.md`](assembly-x-playtest-guide.md): usability and learning playtest protocol
 
 ## Portfolio note
 
-Assembly X is an independent portfolio prototype. It was not commissioned by or created for Brilliant. It demonstrates one direction I could take when designing a visual, puzzle-driven mathematics experience with creative freedom.
+Assembly X is an independent portfolio prototype. It demonstrates one direction I could take when designing a visual, puzzle-driven mathematics experience with creative freedom.
 
